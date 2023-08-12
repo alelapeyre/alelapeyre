@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+---
+avatar: [@sylvia_ritter](http://mastodon.social/@sylvia_ritter)
 <!--
 **alelapeyre/alelapeyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
